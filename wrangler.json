@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "jm-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "18c67726-2e88-4099-8c5b-f48640f599be",
+			"database_name": "jmweb-aura"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
